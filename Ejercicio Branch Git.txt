@@ -1,1 +1,3 @@
-Este es un archivo de prueba en la rama (brach) jdiaz
+Este es un archivo de prueba en la rama principal (main)
+
+En la cual se busca practicar las habilidades de trabajo en Git con las distintas ramas.
